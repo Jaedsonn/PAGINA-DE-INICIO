@@ -1,0 +1,38 @@
+h3{
+    padding: 0;
+    margin: 20px 0 0 0;
+}
+
+.logo{
+    height:60px;
+    width: 170px;
+    
+}
+
+.midia{
+    height: 40px;
+    width: 40px;
+}
+
+.prench-t{
+    margin:0;
+}
+
+.send{
+    margin-top: 25px;
+}
+
+#mensage{
+  height: 150px;
+  text-align: justify;
+}
+
+.inicio{
+    height:100px;
+    align-items: center;
+    display:flex;
+}
+
+ul{
+    margin-top: 0%;
+  }
